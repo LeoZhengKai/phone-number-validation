@@ -1,5 +1,4 @@
-# phone-number-validation
-README: Phone Number Cleaning and Validation Script
+# README: Phone Number Cleaning and Validation Script
 
 # Overview
 This Python script processes an Excel file to clean and validate phone numbers based on country-specific rules. It uses the pandas library for data manipulation, phonenumbers for validation, and openpyxl for working with Excel files.
